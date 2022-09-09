@@ -1,16 +1,28 @@
-body{
-    margin: 0%;
-    font-family:"Helvetica",sans-serif;
+body {
+    margin: 0;
+    font-family: "Helvetica",
+        sans-serif;
 }
-nav{
+
+nav {
     background-color: #234465;
-       padding: 15px;
+    padding: 15px;
 }
-nav li{
+
+nav ul {
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+}
+
+nav li {
+
     padding: 0 20px;
     display: inline-block;
 }
-nav li a{
+
+nav li a {
     color: white;
     text-decoration: none;
+
 }
