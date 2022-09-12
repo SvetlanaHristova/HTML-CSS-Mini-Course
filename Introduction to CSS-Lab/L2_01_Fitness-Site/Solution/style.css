@@ -1,0 +1,29 @@
+body {
+    background: #f0f1f5;
+    margin: 0;
+    font-family: "Helvetica", sans-serif;
+    padding: 2rem 12rem;
+
+}
+
+header>p {
+    float: left;
+    color: orange;
+}
+
+nav {
+    text-align: right;
+}
+
+nav ul {
+    float: right;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    color: orange;
+    text-decoration: none;
+}
